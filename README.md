@@ -61,7 +61,7 @@ streamlit run modelview.py
 ## Example Results
 | Original | Noisy | Denoised |
 |----------|-------|----------|
-| ![Original](main/original.png) | ![Noisy](main/sampleinput.jpg) | ![Denoised](denoised_image.png) |
+| ![Original](sample.jpg) | ![Noisy](sampleinput.jpg) | ![Denoised](denoised_image.png) |
 
 ## Future Improvements
 - Experimenting with **U-Net** architecture for better performance.
